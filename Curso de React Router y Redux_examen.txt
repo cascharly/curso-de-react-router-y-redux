@@ -1,0 +1,97 @@
+¿Cuales son los tres principios de Redux?
+B
+
+¿Qué es un Action?
+B  no
+D 
+
+¿Cuál es la principal finalidad del componente "Redirect"?
+C	
+
+¿Para qué utilizamos el método filter en nuestro proyecto?
+A   no
+B 
+
+¿Para qué nos sirve la función "connect"?
+D 
+
+El método Object.keys() devuelve un:
+A   no
+D 
+
+Para qué nos sirve "mapDispatchToProps"
+A   no
+B 
+
+En Redux, todo el estado es almacenado en un único objeto y es la unica fuente de información.
+A 
+
+¿Cual es la forma propuesta de importar un recurso visual dentro del proyecto?
+D 
+
+¿Para qué nos sirve el Store?
+C  no
+D 
+
+¿Cuál es el componente de React Router que encapsula nuestra aplicación?
+B no
+A 
+
+
+¿Cuál es el componente que creamos para persistir el footer y el header en todas nuestras rutas?
+B  no
+A 
+
+¿Qué componente nos permite renderizar el primer hijo que cumpla con el match de la ruta indicada?
+D 
+
+¿Cuál es la librería que nos permite manejar rutas en nuestra apliación?
+C 
+
+React Router nos facilita la creación de una aplicación SPA (Simple Page Aplicacion)
+B 
+
+¿Qué componente nos permite definir las rutas dentro de nuestra aplicación?
+C 
+
+Para utilizar React Router en nuestro proyecto necesitamos importar:
+B 
+
+Redux DevTools nos permite probar nuestro flujo de trabajo
+B 
+
+¿Cuál es el nombre del archivo que utilizaremos para crear nuestras rutas que utilizamos en PlatziVideo?
+C 
+
+¿Quien es el creador de Redux?
+D 
+
+¿En que paradigma esta basado Redux?
+A 
+
+¿Para qué nos sirve un provider?
+D 
+
+¿Qué es un Reducer?
+A  no
+B 
+
+
+¿Cómo agregamos un flag a un componente para saber si pertenece a una lista?
+B
+
+¿Por qué utilizamos "CreateStore"?
+A 
+
+¿En que lenguaje esta inspirado Redux?
+B 
+
+El componente de React Router llamado "Link" nos sirve para:
+A 
+
+Para qué nos sirve "mapStateToProps"
+D 
+
+El siguiente fragmento de código nos sirve para: `props.history.push('/');`
+A 
+
